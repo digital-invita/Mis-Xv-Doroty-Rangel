@@ -12,29 +12,29 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mis XV | Sofia Montes",
+    "pageTitle": "Mis XV | Doroty Rangel",
     "ogTitle": "",
     "ogDescription": "Acompáñanos a celebrar este día tan especial"
   },
   "event": {
     "label": "Mis XV",
-    "celebrantName": "Sofia Montes",
-    "eventDate": "2027-03-11T15:33",
-    "eventEnd": "2027-03-11T23:11",
+    "celebrantName": "Doroty Rangel",
+    "eventDate": "2026-08-22T15:45",
+    "eventEnd": "2026-08-23T02:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "Top Salón Obispado",
-    "rsvpPhone": "5550591264"
+    "rsvpPhone": "5662706475"
   },
   "theme": {
-    "bgTop": "#a86570",
-    "bgMid": "#df95a0",
-    "bgBottom": "#a86570",
-    "gold500": "#f2c06f",
+    "bgTop": "#0b3d91",
+    "bgMid": "#1e5fd8",
+    "bgBottom": "#0b3d91",
+    "gold500": "#e3e3e3",
     "particleColor": "#f2c06f",
     "text": "#ffffff",
-    "muted": "#f0c4b7",
+    "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
-    "scriptFont": "Dancing Script",
+    "scriptFont": "Cormorant Garamond",
     "displayFont": "Cormorant Garamond"
   },
   "images": {
@@ -60,52 +60,62 @@
   },
   "family": {
     "parentsEyebrow": "En compañía de mis padres",
-    "parentsNamesHtml": "Adriana López Hernández<br>&amp;<br>Javier Montes Ramírez",
+    "parentsNamesHtml": "María G. Morales Arango<br>&amp;<br>Javier Rangel",
     "parentsInviteText": "Tenemos el honor de invitarles a celebrar mis XV años.",
     "godparentsEyebrow": "Mis padrinos",
-    "godparentsNamesHtml": "Gabriela Ruiz Mendoza<br>&amp;<br>Alejandro Hernández García"
+    "godparentsNamesHtml": "Kimberly Pintor Barrera<br>&amp;<br>Uriel Morales Arango"
   },
   "ceremony": {
     "title": "Ceremonia",
-    "time": "15:30 hrs",
-    "place": "Parroquia del Sagrado Corazón de Jesús",
-    "mediaMode": "preview",
+    "time": "15:45 hrs",
+    "place": "Parroquia de la Natividad de San Donovan",
+    "mediaMode": "icon",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406042559!5m2!1ses-419!2smx!6m8!1m7!1sW1KCTr9gtixxUy_1R9Ew2w!2m2!1d25.57659913575704!2d-103.5004368052986!3f202.70293243660157!4f15.440215328659107!5f1.7540701999762476",
+    "mapEmbed": "",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/zTPBsYBQpmymGXzX6"
+    "mapLink": "https://maps.app.goo.gl/T4XFtzzi4nWN45Vf9"
   },
   "reception": {
     "title": "Recepción",
     "time": "17:00 hrs",
-    "place": "Centro de Convenciones Posada del Río",
-    "mediaMode": "preview",
+    "place": "Auditorio Santa María Chiconautla",
+    "mediaMode": "icon",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/DwvQGpkTec4dTeVr8",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1784406356581!5m2!1ses-419!2smx!6m8!1m7!1sSGFER0nSRDCKnO10adm2DA!2m2!1d25.55719968234142!2d-103.4943993146966!3f68.19951991550872!4f17.272107396622715!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/FdpvMbFc9qGcmd1v8",
+    "mapEmbed": "",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
       {
-        "time": "15:30 hrs",
+        "time": "15:45 hrs",
         "title": "Ceremonia",
-        "desc": "Parroquia del Sagrado Corazón de Jesús."
+        "desc": "Parroquia de la Natividad de San Donovan"
       },
       {
         "time": "17:00 hrs",
         "title": "Recepción",
-        "desc": "Centro de Convenciones Posada del Río."
+        "desc": "Auditorio Santa María Chiconautla"
       },
       {
-        "time": "18:00 hrs",
-        "title": "Comida",
-        "desc": "Un momento para brindar y compartir."
-      },
-      {
-        "time": "20:00 hrs",
+        "time": "20:30 hrs",
         "title": "Vals",
-        "desc": "Presentación de Sofia."
+        "desc": "Presentación de Doroty"
+      },
+      {
+        "time": "22:30 hrs",
+        "title": "Partida de Pastel",
+        "desc": "Acompáñanos a compartir este dulce momento de celebración."
+      },
+      {
+        "time": "22:40 hrs",
+        "title": "Presentación Sorpresa",
+        "desc": "Disfruta de una sorpresa preparada con mucho cariño."
+      },
+      {
+        "time": "23:30 hrs",
+        "title": "Presentación Grupo Cazador",
+        "desc": "Prepárate para cantar, bailar y disfrutar de la gran presentación."
       }
     ]
   },
@@ -116,14 +126,14 @@
   "dressCode": {
     "title": "Dress Code",
     "value": "Formal",
-    "note": "Rosa reservado para la quinceañera."
+    "note": "Azul rey reservado para la quinceañera."
   },
   "gifts": {
     "title": "Opciones de regalo",
     "intro": "Tu presencia es el regalo más valioso para mí, pero si deseas tener un detalle, aquí encontrarás algunas opciones pensadas con mucho cariño.",
     "option1Title": "Lluvia de sobres",
     "option1Copy": "Si lo prefieres, podrás acompañarme con un sobre el día del evento. Será un detalle recibido con muchísimo cariño y gratitud.",
-    "showOption1": true,
+    "showOption1": false,
     "option2Title": "Regalo sorpresa",
     "option2Copy": "También puedes sorprenderme con un detalle especial elegido por ti. Lo importante será el cariño con el que venga.",
     "showOption2": true,
@@ -149,7 +159,7 @@
     "buttonHref": "#"
   },
   "rsvp": {
-    "showGuestCount": true,
+    "showGuestCount": false,
     "maxGuests": 6
   },
   "sections": {
